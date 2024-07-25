@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321373361342",
+    "project_id": "projet-forum-296f8",
+    "storage_bucket": "projet-forum-296f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321373361342:android:e4b030be96260f96843aef",
+        "android_client_info": {
+          "package_name": "sn.mouben.idy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrW43NT5-l5eI4XsI6ZMAYbSpG5yA0kJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
